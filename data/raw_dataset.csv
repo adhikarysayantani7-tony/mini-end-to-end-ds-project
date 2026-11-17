@@ -1,0 +1,17 @@
+EmployeeID,Age,Department,MonthlyIncome,YearsAtCompany,OverTime,JobSatisfaction,Attrition
+E-101,26,sales,3200,1,Yes,2,1
+E-102,34,Engineering,6800,5,No,4,0
+E-103,29,SUPPORT,,2,Yes,1,1
+E-104,41,engineering,8500,9,No,4,0
+E-105,24,Sales,2900,1,Yes,2,1
+E-106,38,HR,5400,6,No,3,0
+E-107,27,support,3100,2,Yes,2,1
+E-108,45,Engineering,9200,12,No,4,0
+E-102,34,Engineering,6800,5,No,4,0
+E-109,31,sales,,3,No,3,0
+E-110,25,Support,2800,1,Yes,1,1
+E-111,36,Engineering,7400,7,No,4,0
+E-112,28,Sales,3500,2,Yes,2,1
+E-113,43,HR,6100,8,No,4,0
+E-114,30,engineering,6300,4,No,3,0
+E-115,23,Support,2700,1,Yes,1,1
